@@ -1,0 +1,198 @@
+.titre{
+	font-family:'Dancing Script';
+	font-size: 45px;
+	text-align: center;
+	padding: 1px;
+	float: center;
+	margin-top: 240px;
+	margin-bottom: 0px;
+}
+
+li{
+	list-style: none;
+	text-align: center;
+}
+
+.bandeau-image{
+	margin-top: 0px;
+	text-align: center;
+}
+
+.about-list li{
+	color: #AEB6BF;
+	margin: 20px 30px 30px 30px;
+	border-style: solid;
+	border-width: 3px;
+	border-color: #154360 ;
+	border-radius: 20px;
+	border-collapse: collapse;
+	background-color: #154360 ;
+	display: inline-block;
+	font-family: 'Bree Serif';
+	text-align: center;
+	padding:1px 75px;
+	background-image: url(./pattes.png);
+	background-repeat: no-repeat;
+	background-position: right, left;
+	background-size: 20px;
+	margin-left: 70px;
+}
+
+.me2{
+	font-family:'Dancing Script';
+	color: black ;
+	font-size: 30px;
+	text-align: center;
+	padding: 10px 20px; */
+	float: left;
+	margin-bottom: 5px;
+	border-style:solid;
+	border-width: 3px;
+	border-color: #AEB6BF ;
+	border-radius: 20px;
+	background-color: #AEB6BF;
+	background-image: url(./pattes.png);
+	background-repeat: no-repeat;
+	background-position: right;
+	background-size: 40px;
+}
+
+.me{
+	font-family: 'Bree Serif';
+	text-align: center;
+	font-size: 15px;
+
+}
+
+.keeping-animals1{
+	font-family:'Dancing Script';
+	font-size: 30px;
+	text-align: center;
+	padding: 10px 20px;
+	float: center;
+	margin-bottom: 0px;
+	border-style:solid;
+	border-width: 3px;
+	border-color: #AEB6BF ;
+	border-radius: 20px;
+	background-color: #AEB6BF;
+	background-image: url(./pattes.png);
+	background-repeat: no-repeat;
+	background-position: left;
+	background-size: 40px;
+}
+
+.p1{
+	font-family: 'Bree Serif';
+	text-align: justify;
+	font-size: 15px;
+}
+
+.keeping-animal li{
+	list-style-type: circle;
+	font-family: 'Bree Serif';
+	text-align: justify;
+}
+
+.price-title{
+	font-family:'Dancing Script';
+	font-size: 30px;
+	text-align: center;
+	padding: 10px 20px;
+	float: center;
+	margin-bottom: 0px;
+	border-style:solid;
+	border-width: 3px;
+	border-color: #AEB6BF ;
+	border-radius: 20px;
+	background-color: #AEB6BF;
+	background-image: url(./pattes.png);
+	background-repeat: no-repeat;
+	background-position: right;
+	background-size: 40px;
+}
+.p2{
+	font-family: 'Bree Serif';
+	text-align: center;
+	font-size: 15px;
+}
+
+table.table-price{
+	font-family: 'Bree Serif';
+	font-size: 15px;
+	table-layout: fixed;
+	width: 80%;
+    margin: 0 auto;
+}
+
+.title-photo{
+	font-family:'Dancing Script';
+	font-size: 30px;
+	text-align: center;
+	padding: 10px 20px;
+	float: center;
+	margin-bottom: 0px;
+	border-style:solid;
+	border-width: 3px;
+	border-color: #AEB6BF ;
+	border-radius: 20px;
+	background-color: #AEB6BF;
+	background-image: url(./pattes.png);
+	background-repeat: no-repeat;
+	background-position: left;
+	background-size: 40px;
+	
+}
+
+.p3{
+	font-family: 'Bree Serif';
+	text-align: center;
+	font-size: 15px;
+}
+
+.photo-gallery{
+	text-align: center;
+	margin: 20px;
+}
+
+.adoption-title{
+	font-family:'Dancing Script';
+	font-size: 30px;
+	text-align: center;
+	padding: 10px 20px;
+	float: center;
+	margin-bottom: 0px;
+	border-style:solid;
+	border-width: 3px;
+	border-color: #AEB6BF ;
+	border-radius: 20px;
+	background-color: #AEB6BF;
+	background-image: url(./pattes.png);
+	background-repeat: no-repeat;
+	background-position: right;
+	background-size: 40px;
+}
+
+.adoption{
+	font-family: 'Bree Serif';
+	text-align: center;
+	font-size: 15px;
+	padding: 10px 20px;
+}
+.spa{
+	text-align: center;
+	padding: 10px 20px;
+}
+
+a {
+	text-decoration: underline;
+	color: #007793;
+}
+
+
+.footer > p {
+	font-family: 'Dancing Script';
+	color: black;
+	font-size: 12px;
+
+}
